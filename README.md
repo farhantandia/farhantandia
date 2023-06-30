@@ -10,7 +10,7 @@
    - Data Science & CV: Tensorflow, OpenCV, Sklearn, Tableau, MatplotLib.
    - IoT: Arduino, Digital/Analog sensors, Esp Microcontroller, PID control, Communication Protocol (BLE, UART, CAN, I2C).
 
-Overall, as an intermediate-level developer (refers to this [rubric](https://github.com/Semalab/developer-skills-matrix/blob/main/rubric/rubric.md)) I always keep learning about software technologies that related to my interests. :astronaut:
+I still and always keep learning about software technologies that related to my interests. :astronaut:
 
 
 ### Languages:
