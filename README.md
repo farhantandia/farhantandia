@@ -10,7 +10,7 @@
    - Data Science & CV: Tensorflow, OpenCV, Sklearn, Tableau, MatplotLib.
    - IoT: Arduino, Digital/Analog sensors, Esp Microcontroller, PID control, Communication Protocol (BLE, UART, CAN, I2C).
 
-I still and always keep learning about software technologies that related to my interests. :astronaut:
+Keep learning about software technologies that related to my interests. :astronaut:
 
 
 ### Languages:
