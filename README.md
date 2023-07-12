@@ -27,6 +27,3 @@ Python, Dart, C#, Kotlin, Java, SQL, R, C, JS
 
 <br />
 
-[instagram]: https://instagram.com/farhantandia
-[linkedin]: https://www.linkedin.com/in/mfarhantandia/
-[facebook]: https://www.facebook.com/farhantandia8/
