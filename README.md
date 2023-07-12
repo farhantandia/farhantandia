@@ -15,6 +15,7 @@ Keep learning about software technologies that related to my interests. :astrona
 
 ### Languages:
 Proficient: Python, Dart, SQL, C#
+
 Familiar: Kotlin, Java, R, C, JS 
 <br />
 
