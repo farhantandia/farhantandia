@@ -4,14 +4,13 @@
 
 - :man_scientist: Experienced as a machine learning engineer, mobile app developer, and hardware programmer.
 - 👯 Fast learner and I’m open to work and looking to collaborate with other developers.
-- :dart: Currently focusing on full-stack mobile app development using Flutter, iOS native and .Net Core.
+- :dart: Currently focusing on full-stack mobile app development using Flutter, and .Net Core.
+- 🧑‍💻 Currently learning software automation tests using Katalon, Selenium, and Cucumber.
+  
 - ⚡ Interested in:
    - App development: Flutter, Android Native, ASP.Net Core, Microsoft SQL. 
    - Data Science & CV: Tensorflow, OpenCV, Sklearn, Tableau, MatplotLib.
-   - IoT: Arduino, Digital/Analog sensors, Esp Microcontroller, PID control, Communication Protocol (BLE, UART, CAN, I2C).
-
-Keep learning about software technologies that related to my interests. :astronaut:
-
+   - IoT: Arduino, Digital/Analog sensors, ESP microcontroller, PID control, Communication Protocol (BLE, UART, CAN, I2C).
 
 ### Languages:
 Proficient: Python, Dart, SQL, C#
