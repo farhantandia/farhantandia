@@ -13,9 +13,7 @@
    - IoT: Arduino, Digital/Analog sensors, ESP microcontroller, PID control, Communication Protocol (BLE, UART, CAN, I2C).
 
 ### Languages:
-Proficient: Python, Dart, SQL, C#
-
-Familiar: Kotlin, Java, R, C, JS, Swift 
+Python, Dart, SQL, C#, Kotlin, Java, R, C, JS, Swift 
 <br />
 
 
